@@ -1,0 +1,8 @@
+d:\_documents\visual studio 2015\Projects\homework1\program\bin\Debug\program.exe.config
+d:\_documents\visual studio 2015\Projects\homework1\program\bin\Debug\program.exe
+d:\_documents\visual studio 2015\Projects\homework1\program\bin\Debug\program.pdb
+d:\_documents\visual studio 2015\Projects\homework1\program\bin\Debug\Cat.dll
+d:\_documents\visual studio 2015\Projects\homework1\program\bin\Debug\Cat.pdb
+d:\_documents\visual studio 2015\Projects\homework1\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+d:\_documents\visual studio 2015\Projects\homework1\program\obj\Debug\program.exe
+d:\_documents\visual studio 2015\Projects\homework1\program\obj\Debug\program.pdb
