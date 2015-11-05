@@ -6,3 +6,11 @@ d:\_documents\visual studio 2015\Projects\homework1\program\bin\Debug\Cat.pdb
 d:\_documents\visual studio 2015\Projects\homework1\program\obj\Debug\program.csprojResolveAssemblyReference.cache
 d:\_documents\visual studio 2015\Projects\homework1\program\obj\Debug\program.exe
 d:\_documents\visual studio 2015\Projects\homework1\program\obj\Debug\program.pdb
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\bin\Debug\program.exe.config
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\obj\Debug\program.exe
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\obj\Debug\program.pdb
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\bin\Debug\program.exe
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\bin\Debug\program.pdb
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\bin\Debug\Cat.dll
+C:\Users\user\Documents\GitHubVisualStudio\homework1\program\bin\Debug\Cat.pdb

@@ -33,17 +33,17 @@ namespace model
             }
         }
 
-        public int Health
-        {
-            get { return _health; }
-            private set { _health = value; }
-        }
-        
+        //public int Health
+        //{
+        //    get { return _health; }
+        //    private set { _health = value; }
+        //}
+        //private int Health;
         public string CurrentColor
         {
             get
             {
-                if (_health == 5)
+                if (_health >= 5)
                 {
                     _currentColor = Color.HealthyColor;
                     return _currentColor;
@@ -65,7 +65,7 @@ namespace model
 
         public void Punish()
         {
-            if (_health > 0)
+            //if (_health > 0)
                 _health--;
         }
 

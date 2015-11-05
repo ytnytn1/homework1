@@ -3,3 +3,8 @@ d:\_documents\visual studio 2015\Projects\homework1\Cat\bin\Debug\Cat.pdb
 d:\_documents\visual studio 2015\Projects\homework1\Cat\obj\Debug\model.csprojResolveAssemblyReference.cache
 d:\_documents\visual studio 2015\Projects\homework1\Cat\obj\Debug\Cat.dll
 d:\_documents\visual studio 2015\Projects\homework1\Cat\obj\Debug\Cat.pdb
+C:\Users\user\Documents\GitHubVisualStudio\homework1\Cat\bin\Debug\Cat.dll
+C:\Users\user\Documents\GitHubVisualStudio\homework1\Cat\bin\Debug\Cat.pdb
+C:\Users\user\Documents\GitHubVisualStudio\homework1\Cat\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHubVisualStudio\homework1\Cat\obj\Debug\Cat.dll
+C:\Users\user\Documents\GitHubVisualStudio\homework1\Cat\obj\Debug\Cat.pdb
